@@ -47,7 +47,10 @@ if( age == 18){console.log(`Welcome to ttt`)}
 
 
 //functions- Defining functions
-function isEligible(){
-    if( age == 18){return}
-    else {console.log(`This Page is not for you oo`)} 
- }
+// function isEligible(){
+//     if( age == 18){return}
+//     else {console.log(`This Page is not for you oo`)} 
+//  }
+
+
+console.log("We are using GIT!");
